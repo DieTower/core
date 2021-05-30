@@ -6,7 +6,7 @@ const Text = (props) => {
         "text": {
             "backgroundColor": props.bgColor,
             "color": props.color,
-            "fontFamily": props.fontFamily,
+            "fontFamily": props.family,
             "fontSize": props.size,
             "fontWeight": props.weight,
             "textShadow": props.shadow,
