@@ -12,11 +12,11 @@ const Home = () => {
                 <Flex justify="center"
                       align="center">
                     <Text text="Hey, hello friend."
-                          color="#feca57"
+                          color="#2ecc71"
                           size="2em"
                           family="sans-serif"
                           weight="700"
-                          shadow="1px 0px 4px #000000" />
+                          shadow="2px 2px 1px #9b59b6" />
                 </Flex>
             </Box>
         </div>
